@@ -19,10 +19,10 @@ Contains all files related to the initial machine learning model.
 Contains all files related to the revised machine learning model.
 
 ### 4. Data Visualization
-- **Data Visualization.ipynb**: Jupyter notebook for data visualization.
+- **Data_visualization.ipynb**: Jupyter notebook for data visualization.
 
 ### 5. Presentation
-- **career prediction.pptx**: PowerPoint presentation detailing the project work.
+- **Career Prediction.pptx**: PowerPoint presentation detailing the project work.
 
 ## Project Description
 
@@ -70,6 +70,5 @@ The revised model was trained on a dataset with reduced columns to improve its e
 ## Contact
 For any questions or further information, please contact:
 - Tuhin Patra
-- Pankaj Sadhukhan
 
-Thank you for your interest in our project!
+Thank you for your interest in the project!
