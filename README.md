@@ -1,8 +1,9 @@
-# Career Prediction Project
+# Career Prediction Using Machine Learning
 
+<img src="Data/Picture1.png" alt="Banner" width="500"/>
 ## Overview
 
-This repository contains all the files related to the career prediction project, which aims to provide accurate career recommendations tailored to individual strengths, interests, and market demands using machine learning algorithms.
+This repository contains all the files related to the career prediction using machine learning, which aims to provide accurate career recommendations tailored to individual strengths, interests, and market demands using machine learning algorithms.
 
 ## Repository Structure
 
