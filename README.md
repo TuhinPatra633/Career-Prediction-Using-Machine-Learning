@@ -55,17 +55,17 @@ Data preprocessing ensures the dataset is accurate and consistent. The dataset c
 ## Model Training
 
 ### Initial Model Results
-- **KNN**: Train accuracy - 98%, Test accuracy - 97% (K=95)
+- **KNN**: Train accuracy - 98%, Test accuracy - 97% 
 - **Naïve Bayes**: Train accuracy - 100%, Test accuracy - 99.8%
-- **Decision Tree**: Train accuracy - 100%, Test accuracy - 100% (Max depth=15)
-- **SVM**: Train accuracy - 99%, Test accuracy - 98% (RBF kernel, C=1.0)
-- **Random Forest**: Train accuracy - 100%, Test accuracy - 100% (n_estimators=100, max_depth=None, min_samples_split=2, min_samples_leaf=1)
+- **Decision Tree**: Train accuracy - 100%, Test accuracy - 100% 
+- **SVM**: Train accuracy - 99%, Test accuracy - 98% 
+- **Random Forest**: Train accuracy - 100%, Test accuracy - 100% 
 
 ### Revised Model Results
-- **KNN**: Train accuracy - 65%, Test accuracy - 55% (K=10)
+- **KNN**: Train accuracy - 65%, Test accuracy - 55% 
 - **Naïve Bayes**: Train accuracy - 51.1%, Test accuracy - 50.16%
-- **SVM**: Train accuracy - 55%, Test accuracy - 52% (Linear kernel, C=7.0)
-- **Random Forest**: Train accuracy - 97%, Test accuracy - 89% (n_estimators=200, max_features=14, min_samples_split=8, min_samples_leaf=7)
+- **SVM**: Train accuracy - 55%, Test accuracy - 52% 
+- **Random Forest**: Train accuracy - 97%, Test accuracy - 89% 
 
 ## Conclusion
 The revised model was trained on a dataset with reduced columns to improve its effectiveness for predicting suitable career paths for students, particularly in rural areas. The models were evaluated based on their training and test accuracies, with the Random Forest model performing the best in the revised dataset.
