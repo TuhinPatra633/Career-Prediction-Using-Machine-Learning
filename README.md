@@ -4,7 +4,7 @@
 
 This repository contains all the files related to the career prediction project, which aims to provide accurate career recommendations tailored to individual strengths, interests, and market demands using machine learning algorithms.
 
-## Project Structure
+## Repository Structure
 
 The repository is organized as follows:
 
@@ -45,43 +45,6 @@ Proper counseling is crucial in helping students determine the most suitable car
 - Decision Tree
 - Support Vector Machine (SVM)
 - Random Forest
-
-## Timeline
-
-| Task              | Duration         |
-|-------------------|------------------|
-| Literature Survey | 23/02 - 04/03    |
-| Data Gathering    | 05/03 - 13/03    |
-| Data Preprocessing| 14/03 - 22/03    |
-| Training & Testing| 23/03 - 12/04    |
-| Parameter Tuning  | 13/04 - 23/04    |
-| Make Prediction   | 24/04 - 01/05    |
-
-## Work Division
-
-| Task                | Assigned to         |
-|---------------------|---------------------|
-| Literature Survey   | Pankaj & Tuhin      |
-| Data Gathering      | Tuhin               |
-| Data Preprocessing  | Pankaj              |
-| Training & Testing  | Pankaj & Tuhin      |
-| Parameter Tuning    | Tuhin               |
-| Make Prediction     | Pankaj & Tuhin      |
-
-## Literature Survey
-
-### References
-- **Career Prediction System by V Madhan Mohan Reddy**
-  - Published on: International Journal of Scientific Research in Science and Technology
-  - Methods: XGBoost, Decision Tree
-
-- **Prediction Of Undergraduate Students’ Career Using Various Machine Learning And Ensemble Learning Algorithms**
-  - Published on: Webology
-  - Methods: Gradient Boosting (62%), Voting Classifier (82.75%)
-
-- **Career Prediction Classifiers based on Academic Performance and Skills using Machine Learning by Akanksha Pandey & L.S. Maurya**
-  - Published on: SSRG International Journal of Computer Science and Engineering
-  - Methods: KNN (63%), Stochastic Gradient Descent (62%)
 
 ## Data Preprocessing
 Data preprocessing ensures the dataset is accurate and consistent. The dataset contains 9179 samples and 28 columns. The data source link is: [CareerPrediction.csv](https://data.mendeley.com/datasets/5z68cvxssn/1)
