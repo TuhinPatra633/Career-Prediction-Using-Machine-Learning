@@ -24,7 +24,7 @@ Contains all files related to the revised machine learning model.
 - **Data_visualization.ipynb**: Jupyter notebook for data visualization.
 
 ### 5. Presentation
-- **Career Prediction.pptx**: PowerPoint presentation detailing the project work.
+- **Career Prediction.pptx**: PowerPoint presentation detailing the work.
 - **[View the presentation on Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQszHHy_2wXoQUY7iq1ETN6pMMfIcNLbI5DYBkBRIj6LK-xiFMAQwTUDtXyVmtCAw/pub?start=false&loop=false&delayms=3000)**
 
 ## Project Description
