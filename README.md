@@ -1,5 +1,4 @@
 # Career Prediction Using Machine Learning
-
 <img src="Data/Picture1.png" alt="Banner" width="500"/>
 
 ## Overview
@@ -73,5 +72,6 @@ The revised model was trained on a dataset with reduced columns to improve its e
 ## Contact
 For any questions or further information, please contact:
 - Tuhin Patra
+- Pankaj Sadukhan
 
 Thank you for your interest in the project!
