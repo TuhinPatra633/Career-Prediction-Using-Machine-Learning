@@ -69,6 +69,10 @@ Data preprocessing ensures the dataset is accurate and consistent. The dataset c
 ## Conclusion
 The revised model was trained on a dataset with reduced columns to improve its effectiveness for predicting suitable career paths for students, particularly in rural areas. The models were evaluated based on their training and test accuracies, with the Random Forest model performing the best in the revised dataset.
 
+## Web Application
+We have built an web application of this project using the best performing model. This Web application predict students career by askiing some skill rating. 
+[Visit The Website](https://huggingface.co/spaces/PankajSadhukhan/career-prediction)
+
 ## Contact
 For any questions or further information, please contact:
 - Tuhin Patra
